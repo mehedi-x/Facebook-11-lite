@@ -6,7 +6,8 @@ Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lit
 
  ### How to download.....!
 
-https://github.com/infocp/Fb-11-lite/assets/158504182/d5fd43fd-07db-4b1c-883a-64ede1cdc77d
+![1000005618](https://github.com/infocp/Fb-11-lite/assets/158504182/5a5541a2-c387-44fe-9fe1-f5f4e0f58f49)
+
 
 # DOWNLOAD
 <!-- Click the download button to download latest release app. -->
