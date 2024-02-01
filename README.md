@@ -8,8 +8,8 @@ Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lit
 ![1000005607](https://github.com/infocp/Fb-11-lite/assets/158504182/3cc08df7-3715-4fa5-b99b-b22b75976a7f)
 # DOWNLOAD
 <!-- Click the download button to download latest release app. -->
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
+[<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
+     alt="Get it on Anonbar"
      height="80">](https://www.google.com/search?q=anonbar+fb+11+lite&oq=Anonbar&gs_lcrp=EgZjaHJvbWUqBggFEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIJCAMQRRg5GIAEMgYIBBBFGDwyBggFEEUYOzIGCAYQRRg7MgYIBxBFGDvSAQgzNTgzajBqN6gCALACAA&client=ms-android-kddi-jp-revc&sourceid=chrome-mobile&ie=UTF-8)
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 
