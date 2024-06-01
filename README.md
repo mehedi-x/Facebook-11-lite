@@ -13,7 +13,7 @@ For spamming hacking first we need multiple Facebook accounts. For which basical
 <!-- Click the download button to download latest release app. -->
 [<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
      alt="Get it on Anonbar"
-     height="80">](https://www.google.com/search?q=anonbar+fb+11+lite&oq=Anonbar&gs_lcrp=EgZjaHJvbWUqBggFEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIJCAMQRRg5GIAEMgYIBBBFGDwyBggFEEUYOzIGCAYQRRg7MgYIBxBFGDvSAQgzNTgzajBqN6gCALACAA&client=ms-android-kddi-jp-revc&sourceid=chrome-mobile&ie=UTF-8)
+     height="80">]([https://www.google.com/search?q=anonbar+fb+11+lite&oq=Anonbar&gs_lcrp=EgZjaHJvbWUqBggFEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIJCAMQRRg5GIAEMgYIBBBFGDwyBggFEEUYOzIGCAYQRRg7MgYIBxBFGDvSAQgzNTgzajBqN6gCALACAA&client=ms-android-kddi-jp-revc&sourceid=chrome-mobile&ie=UTF-8](https://www.google.com/search?q=https%3A%2F%2Ffb11lite.my.id&oq=https%3A%2F%2Ffb11lite.my.id&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg6MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxAjGCfSAQgxOTk1ajBqNKgCDrACAQ&client=ms-android-kddi-jp-revc&sourceid=chrome-mobile&ie=UTF-8))
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 
 #### Remember
