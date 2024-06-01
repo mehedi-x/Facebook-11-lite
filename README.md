@@ -4,11 +4,6 @@ For spamming hacking first we need multiple Facebook accounts. For which basical
 ### Details 
 > Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lite is the clone version of facebook lite. Fb 11 lite is not a separate software it is cloned from Fb lite by different software. You can safely use Facebook 11 Lite. 
 
- ### How to download.....!
-
-![1000005618](https://github.com/infocp/Fb-11-lite/assets/158504182/5a5541a2-c387-44fe-9fe1-f5f4e0f58f49)
-
-
 # DOWNLOAD
 <!-- Click the download button to download latest release app. -->
 [<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
