@@ -8,7 +8,7 @@ Facebook 11 lite.For spamming hacking first we need multiple Facebook accounts. 
 <!-- Click the download button to download latest release app. -->
 [<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
      alt="Get it on Anonbar"
-     height="80">](https://www.google.com/search?q=https%3A%2F%2Ffb11lite.my.id&oq=https%3A%2F%2Ffb11lite.my.id&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg6MgYIARBFGDsyBggCEEUYPDIGCAMQRRg8MgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxAjGCfSAQgxOTk1ajBqNKgCDrACAQ&client=ms-android-kddi-jp-revc&sourceid=chrome-mobile&ie=UTF-8)
+     height="80">](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 
 #### Remember
