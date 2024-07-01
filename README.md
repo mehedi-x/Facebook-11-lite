@@ -10,26 +10,26 @@ Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lit
 ### Download link
  <div align="center">
   
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_02-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_02-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_03-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_03-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_04-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_04-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_05-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_05-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_06-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_06-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_07-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_07-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_08-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_08-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_09-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_09-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
 [![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
 
-[![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
 
 <div align="left">
  
