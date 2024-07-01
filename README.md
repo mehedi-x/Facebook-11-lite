@@ -1,21 +1,41 @@
-![1000005606](https://github.com/infocp/Fb-11-lite/assets/158504182/d78957c9-4f83-4b90-bc29-5f7dd843f593)
-# Facebook 11 lite
-Facebook 11 lite.For spamming hacking first we need multiple Facebook accounts. For which basically this Facebook 11 Lite has been created
+### Facebook 11 lite
+![image(Facebook 11 lite)](https://github.com/cpfile/Facebook-11-lite/assets/133189455/dd3c9ecc-7902-4c74-a1c9-9b540b9d6726)
+
 ### Details 
 Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lite is the clone version of facebook lite. Fb 11 lite is not a separate software it is cloned from Fb lite by different software. You can safely use Facebook 11 Lite. 
 
-## DOWNLOAD
-<!-- Click the download button to download latest release app. -->
-[<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
-     alt="Get it on Anonbar"
-     height="80">](https://anonbar.blogspot.com/2024/04/update-version-facebook-11-lite.html)
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+ ### How to download.....  
+ ![Fb 11 lite](https://github.com/cpfile/Facebook-11-lite/assets/133189455/fb09d3a1-e0af-489f-8b43-9bc730954615)
 
+### Download link
+ <div align="center">
+  
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_02-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_03-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_04-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_05-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_06-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_07-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_08-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_09-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_10-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+[![Download](https://img.shields.io/badge/Download_Facebook_lite_11-000000?style=for-the-badge)](https://anonbar.blogspot.com/2023/12/update-version-facebook-11-lite-2023.html)
+
+<div align="left">
+ 
 #### Remember
 Our cyber ​​protection team is not responsible in any way if you do any bad activity using facebook 11 lite.
-# Notic 
-> One or more enabled modding options are no longer supported on Android 10.
-> 
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=Total+download)
  <div align="center">
 © Cyber protection
