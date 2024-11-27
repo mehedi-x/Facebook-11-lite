@@ -20,8 +20,6 @@ To download **Facebook 11 Lite**, click the button below:
   </a>
 </div>
 
-> **Telegram boat** 
-
 ## ⚠️ **Important Reminder**
 
 Our **Cyber Protection Team** is not responsible for any activities that are deemed unethical or illegal when using Facebook 11 Lite. Use the app at your own discretion and follow all laws and ethical guidelines.
