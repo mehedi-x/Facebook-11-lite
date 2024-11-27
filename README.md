@@ -40,7 +40,7 @@ We are committed to providing basic protection and security tips for safe online
 
 For support or further queries, feel free to contact us:
 
-- **Email**: [support@anonbar.com](mailto:support@anonbar.com)
+- **Email**: [mehedi.exx@gmail.com](mailto:support@anonbar.com)
 - **Telegram**: [@Anonbar_bot](https://t.me/Anonbar_bot)
 
 ---
