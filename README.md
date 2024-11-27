@@ -2,58 +2,48 @@
 
 ![Facebook 11 Lite](https://github.com/cpfile/Facebook-11-lite/assets/133189455/dd3c9ecc-7902-4c74-a1c9-9b540b9d6726)
 
-## Overview
+## 📱 **Details**
 
-**Facebook 11 Lite** is a modified version of Facebook Lite, designed specifically for users who prefer a lightweight experience with faster performance. It is not an official release but a clone version created with similar functionality, aimed at enhancing the Facebook experience for users with different needs.
+**Facebook 11 Lite** is a cloned version of **Facebook Lite** designed to offer a lightweight, efficient experience for users. It's directly related to spamming and hacking activities, and while it’s not an official version of the app, it replicates the core features of Facebook Lite. The software is created by third-party developers and may be used for various purposes.
 
-> **Disclaimer:** Facebook 11 Lite is a cloned version of Facebook Lite created by third-party software. Use it at your own discretion, and ensure you're aware of the potential risks involved.
+> **Note:** Although Facebook 11 Lite is safe to use, we do not take responsibility for any actions that might lead to misuse of the app.
 
-## Features
+## 🔽 **Download Link**
 
-- **Lightweight:** Fast, efficient, and optimized for low-data usage.
-- **Minimalistic UI:** Streamlined user interface similar to Facebook Lite.
-- **Improved Performance:** Enhanced for better performance on lower-end devices.
-- **Customizable Settings:** Tailor your Facebook experience with built-in customization options.
-
-## Download
-
-You can download **Facebook 11 Lite** from the link below:
+To download **Facebook 11 Lite**, simply click the button below:
 
 <div align="center">
-  [Download Facebook 11 Lite](https://t.me/Anonbar_bot)
+  <a href="https://t.me/Anonbar_bot" target="_blank">
+    <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; border-radius: 8px; border: none;">
+      🚀 **Download Facebook 11 Lite**
+    </button>
+  </a>
 </div>
 
-> **Note:** Always download software from trusted sources to ensure security.
+## ⚠️ **Important Reminder**
 
-## Important Reminder
+Our **Cyber Protection Team** is not responsible for any activities that are deemed unethical or illegal when using Facebook 11 Lite. Use the app at your own discretion and follow all laws and ethical guidelines.
 
-While **Facebook 11 Lite** is designed for safe usage, **we cannot be held responsible** for any inappropriate or illegal activities that occur through its use. Always ensure that your online actions comply with local laws and ethical guidelines.
+> **Remember**: Always ensure you're using any software responsibly, especially third-party versions.
 
-## Cyber Protection
-
-Our **Cyber Protection Team** is committed to safeguarding your data. However, we strongly advise users to stay vigilant and adhere to safe online practices.
-
----
-
-## Total Downloads
+## 📊 **Download Stats**
 
 ![Download Badge](https://komarev.com/ghpvc/?username=your-github-username&label=Total+Downloads)
 
-## License
+## 🔒 **Cyber Protection**
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+We are committed to providing basic protection and security tips for safe online use. However, we strongly advise all users to exercise caution and adhere to best practices when using modified software.
 
 ---
 
-### Contact Information
+## 📞 **Contact Information**
 
-If you have any questions or require further assistance, feel free to reach out to us:
+For support or further queries, feel free to contact us:
 
-- **Email:** [support@anonbar.com](mailto:support@anonbar.com)
-- **Telegram:** [@Anonbar_bot](https://t.me/Anonbar_bot)
-
-> Stay connected and secure online.
+- **Email**: [support@anonbar.com](mailto:support@anonbar.com)
+- **Telegram**: [@Anonbar_bot](https://t.me/Anonbar_bot)
 
 ---
 
 © 2024 **Cyber Protection**. All rights reserved.
+
